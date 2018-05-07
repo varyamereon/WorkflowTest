@@ -12,8 +12,8 @@
         x:Name="ContentArea"
         Margin="{StaticResource MediumLeftRightMargin}">
         <Grid Background="{ThemeResource SystemControlPageBackgroundChromeLowBrush}">
-
-            <TextBlock Text="Second Page"/>
+            
+            <ListView ItemsSource="{Binding Artists}"/>
 
         </Grid>
     </Grid>
