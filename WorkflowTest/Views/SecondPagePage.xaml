@@ -13,7 +13,7 @@
         Margin="{StaticResource MediumLeftRightMargin}">
         <Grid Background="{ThemeResource SystemControlPageBackgroundChromeLowBrush}">
             
-            <ListView ItemsSource="{Binding Artists}"/>
+            <ListView ItemsSource="{Binding ArtistsCollection}"/>
 
         </Grid>
     </Grid>
