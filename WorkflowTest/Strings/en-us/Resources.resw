@@ -137,4 +137,8 @@
     <value>ThirdPage</value>
     <comment>Navigation view item name for ThirdPage</comment>
   </data>
+  <data name="Shell_FourthPage.Content" xml:space="preserve">
+    <value>FourthPage</value>
+    <comment>Navigation view item name for FourthPage</comment>
+  </data>
 </root>

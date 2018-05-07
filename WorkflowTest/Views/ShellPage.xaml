@@ -27,6 +27,7 @@
             <NavigationViewItem x:Uid="Shell_Main" Icon="Document" helpers:NavHelper.NavigateTo="Main" />
             <NavigationViewItem x:Uid="Shell_SecondPage" Icon="Document" helpers:NavHelper.NavigateTo="SecondPage" />
             <NavigationViewItem x:Uid="Shell_ThirdPage" Icon="Document" helpers:NavHelper.NavigateTo="ThirdPage" />
+            <NavigationViewItem x:Uid="Shell_FourthPage" Icon="Document" helpers:NavHelper.NavigateTo="FourthPage"/>
         </NavigationView.MenuItems>
         <NavigationView.HeaderTemplate>
             <DataTemplate>
